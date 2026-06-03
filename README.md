@@ -6,12 +6,6 @@ Estrutura de dados aplicada - UP
 
 # Grafos no Mundo Real — Mapa do Campus Universidade Positivo
 
-Trabalho da disciplina **Estruturas de Dados Aplicadas** — Avaliação A2-2  
-Curso: Ciência da Computação | 3º Período  
-Professor: Marlon
-
----
-
 ## Problema escolhido
 
 Modelagem do campus da Universidade Positivo (Curitiba) como um grafo, onde cada local do campus é um vértice e os caminhos entre eles são as arestas.
