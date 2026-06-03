@@ -1,7 +1,6 @@
 # grafos
  
-Matheus Lara Leriano
-Mariano 
+Matheus Lara Leriano e Mariano 
 Estrutura de dados aplicada - UP
 
 # Grafos no Mundo Real — Mapa do Campus Universidade Positivo
